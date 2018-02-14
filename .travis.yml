@@ -1,5 +1,2 @@
-language: rust
-os:
-    - linux
-script:
-    - cargo build --verbose
+language: minimal
+script: true
